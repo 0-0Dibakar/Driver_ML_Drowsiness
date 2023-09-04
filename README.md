@@ -1,5 +1,8 @@
 # Driver_ML_Drowsiness
 **Driver Drowsiness Detection System with OpenCV & Keras**
+
+![driver-drowsiness](https://github.com/0-0Dibakar/Driver_ML_Drowsiness/assets/106139442/84f7258f-391e-4d84-aedf-d1751be4123f)
+
 With this Python project, we will be making a drowsiness detection system. A countless number of people drive on the highway day and night. Taxi drivers, bus drivers, truck drivers and people traveling long-distance suffer from lack of sleep. Due to which it becomes very dangerous to drive when feeling sleepy.
 
 The majority of accidents happen due to the drowsiness of the driver. So, to prevent these accidents we will build a system using Python, OpenCV, and Keras which will alert the driver when he feels sleepy.
